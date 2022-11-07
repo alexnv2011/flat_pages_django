@@ -1,2 +1,2 @@
 # flat_pages_django
-Django project with plat pages
+Django project with flat pages
